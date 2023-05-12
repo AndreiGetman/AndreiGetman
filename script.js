@@ -293,3 +293,5 @@ const getMax = (array) => {
 }
 
 console.log(getMax([1, 10, 8]))  // 10
+
+///hello
