@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AndreiGetman" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/hexlet-git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nodejs-package" vcs="Git" />
   </component>
 </project>
