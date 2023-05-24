@@ -23,7 +23,6 @@
 
 // const cities = ['moscow', 'london', 'berlin', 'porto']
 
-
 // const arrayFunc = (array, index = null, string) => {
 //   if (index < array.length) {
 //       return array[index]
@@ -49,7 +48,6 @@
 // const newNames = addPrefix(names, 'Mr');
 // console.log(newNames);
 // console.log(names);
-
 
 // const names = ['john', 'smith', 'karl', 'j', 'k'];
 //
@@ -288,10 +286,10 @@
 // console.log(getTheNearestLocation(locations, currentPoint)); // ['Museum', [8, 4]]
 
 const getMax = (array) => {
-    if (array.length === 0) return null;
-    return Math.max(...array);
-}
+  if (array.length === 0) return null;
+  return Math.max(...array);
+};
 
-console.log(getMax([1, 10, 8]))  // 10
+console.log(getMax([1, 10, 8])); // 10
 
-///hello
+/// hello
